@@ -16,5 +16,23 @@
                 "alamat" : "asdasdsdfwaf ewf ewfwefewf"
         }		
        
+    ],
+"mintasaham": [
+        {
+                "id": "1",
+                "nama": "Dhihan Laksana AJi ANggana",
+                "organisasi": "WKWKWKWK",
+                "telepon": "00213482039480923",
+                "alamat" : "asdasdsdfwaf ewf ewfwefewf"
+        },
+		
+        {
+                "id": "2",
+                "nama": "Dhihan Laksana AJi ANggana",
+                "organisasi": "WKWKWKWK",
+                "telepon": "00213482039480923",
+                "alamat" : "asdasdsdfwaf ewf ewfwefewf"
+        }		
+       
     ]
 }
