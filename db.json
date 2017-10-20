@@ -3,18 +3,25 @@
         {
                 "id": "1",
                 "nama": "Dhihan Laksana AJi ANggana",
-                "organisasi": "WKWKWKWK",
-                "telepon": "00213482039480923",
-                "alamat" : "asdasdsdfwaf ewf ewfwefewf"
+                "organisasi": "Starline Jet-Propultion",
+                "telepon": "085877615242",
+                "alamat" : "Perum Soka Asri PErmai Q-11 Purwomartani"
         },
 		
         {
                 "id": "2",
-                "nama": "Dhihan Laksana AJi ANggana",
-                "organisasi": "WKWKWKWK",
-                "telepon": "00213482039480923",
-                "alamat" : "asdasdsdfwaf ewf ewfwefewf"
-        }		
+                "nama": "Gita Sinaga",
+                "organisasi": "The White Star Line",
+                "telepon": "085615244311",
+                "alamat" : "Line Cruisser Land"
+        },
+	{
+                "id": "3",
+                "nama": "Bambang Tri Anggono",
+                "organisasi": "VMix Le Corporation",
+                "telepon": "085166254312",
+                "alamat" : "ST.VMix Sivouple De La Mer"
+        }	
        
     ]
 }
