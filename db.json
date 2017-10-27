@@ -21,7 +21,14 @@
                 "organisasi": "VMix Le Corporation",
                 "telepon": "085166254312",
                 "alamat" : "ST.VMix Sivouple De La Mer"
-        }	
+        },
+	{
+                "id": "4",
+                "nama": "You know me wo well",
+                "organisasi": "cmash",
+                "telepon": "085166254312",
+                "alamat" : "SM*SH"
+        }
        
     ]
 }
