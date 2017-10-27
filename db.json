@@ -28,6 +28,13 @@
                 "organisasi": "cmash",
                 "telepon": "085166254312",
                 "alamat" : "SM*SH"
+        },
+	{
+                "id": "5",
+                "nama": "The Brutus",
+                "organisasi": "PT Brutu",
+                "telepon": "085166254312",
+                "alamat" : "Brutu Land"
         }
        
     ]
